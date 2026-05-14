@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>Bienvenido a WebFusion Digital</h1>
+    <h1>Bienvenido a WebFusion Digital v2.0</h1>
     <p>Página desplegada automáticamente con Docker + Vagrant</p>
 </body>
 </html>
